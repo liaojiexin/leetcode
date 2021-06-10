@@ -33,7 +33,7 @@ public class QuickSort {
             }
             array[i]=x;
             sort(array,left,i-1);
-            sort(array,i+1,j);
+            sort(array,i+1,right);
         }
     }
 }
