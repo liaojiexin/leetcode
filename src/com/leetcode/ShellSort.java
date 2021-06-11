@@ -14,7 +14,7 @@ public class ShellSort {
             for(int i=0;i<inc;i++){     //inc为每轮要比较的次数，如例子中9个数字第一轮中，第一次比较是第一个数字和第五个数字比较
                 //接下来用插入排序
                 for(int j=i+inc;j<array.length;j=j+inc){
-                    int x=array[i];
+                    int x=array[j];
                     int z=j-inc;
                     while(z>=0 && array[z]>x){
                         array[z+inc]=array[z];
