@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.Sort;
 
 /*
 * 快速排序：找第一个值为标准，然后从右边开始找小于它的，再从左边找大于他的，两两替换，最后等到两边下标重合后再吧第一个值放到重合的位置

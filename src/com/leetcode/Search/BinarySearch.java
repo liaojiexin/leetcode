@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.Search;
 
 
 //二分查找,从一个整数数组中找出某个整数的下标，没有则返回-1

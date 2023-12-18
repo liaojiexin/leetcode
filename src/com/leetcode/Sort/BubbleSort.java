@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.Sort;
 
 /*
 冒泡排序:两两遍历，把最大或最小的数字放到最后或者最前面

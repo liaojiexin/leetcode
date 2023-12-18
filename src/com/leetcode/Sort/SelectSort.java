@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.Sort;
 
 /*
 选择排序：每次选择最前面的数字为最小值，然后依次和后面的比较，如果后面有比它小的话就调换两者的值，对后面的数字再重复前面的操作
